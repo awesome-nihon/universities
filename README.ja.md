@@ -331,6 +331,16 @@
 
 ## ライセンス
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+このリポジトリはデュアルライセンスを使用しています:
 
-法的に可能な範囲で、貢献者はこの作品に対するすべての著作権および関連する権利を放棄しました。
+### ドキュメントライセンス
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+すべてのドキュメントとREADMEファイルは[クリエイティブ・コモンズ 表示-非営利 4.0 国際 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)の下でライセンスされています。
+
+### コードライセンス
+
+コードまたはソフトウェア実装は[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)の下でライセンスされています。
+
+詳細は[LICENSE](LICENSE)をご覧ください。
