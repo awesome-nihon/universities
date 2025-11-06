@@ -331,6 +331,16 @@ Beiträge sind willkommen! Bitte lesen Sie zuerst die [Beitragsrichtlinien](CONT
 
 ## Lizenz
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Dieses Repository verwendet eine duale Lizenz:
 
-Soweit gesetzlich möglich, haben die Mitwirkenden auf alle Urheberrechte und verwandten Rechte an diesem Werk verzichtet.
+### Dokumentationslizenz
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Alle Dokumentationen und README-Dateien sind unter [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) lizenziert.
+
+### Code-Lizenz
+
+Jeglicher Code oder Software-Implementierungen sind unter [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html) lizenziert.
+
+Siehe [LICENSE](LICENSE) für vollständige Details.

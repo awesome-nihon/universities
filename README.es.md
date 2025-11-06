@@ -331,6 +331,16 @@ Para aquellos que necesitan mejorar sus habilidades en japonés antes de la univ
 
 ## Licencia
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Este repositorio utiliza una licencia dual:
 
-En la medida de lo posible bajo la ley, los contribuyentes han renunciado a todos los derechos de autor y derechos relacionados con este trabajo.
+### Licencia de Documentación
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Toda la documentación y archivos README están licenciados bajo [Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+
+### Licencia de Código
+
+Cualquier código o implementaciones de software están licenciados bajo [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
+
+Ver [LICENSE](LICENSE) para más detalles.

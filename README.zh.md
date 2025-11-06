@@ -331,6 +331,16 @@
 
 ## 许可证
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+本仓库采用双重许可证:
 
-在法律允许的范围内,贡献者已放弃对本作品的所有版权和相关权利。
+### 文档许可证
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+所有文档和README文件均采用[知识共享 署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)授权。
+
+### 代码许可证
+
+任何代码或软件实现均采用[GNU Affero通用公共许可证 v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)授权。
+
+详情请参阅[LICENSE](LICENSE)。
