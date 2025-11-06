@@ -1,45 +1,46 @@
-# Dual License
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
 
-This repository uses a dual license structure:
+Copyright (C) 2025 awesome-nihon contributors
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
-## For Documentation (README files and related content)
+Preamble
 
-The documentation, including all README files (README.md, README.ja.md, README.de.md, README.zh.md, README.es.md) and related awesome-style content, is licensed under:
+The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
 
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+[...]
 
-[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+TERMS AND CONDITIONS
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+0. Definitions.
+"License" refers to version 3 of the GNU Affero General Public License.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
-- **NonCommercial** — You may not use the material for commercial purposes
+1. Source Code.
+The "source code" for a work means the preferred form of the work for
+making modifications to it.
 
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+2. Basic Permissions.
+All rights granted under this License are granted for the term of
+copyright on the Program.
 
-## For Code (Software implementations)
+3. Conveying Modified Source Versions.
+You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:
+  a) The work must carry prominent notices stating that you modified it.
+  b) You must license the entire work, as a whole, under this License.
+  c) You must display appropriate legal notices for interactive use.
 
-Any code, scripts, or software implementations in this repository are licensed under:
+4. Network Use.
+Running the Program on a server gives the public access to it and
+constitutes distribution; the source must be made available under this License.
 
-**GNU Affero General Public License v3.0 (AGPL-3.0)**
+[...]
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+See the full license text at:
+<https://www.gnu.org/licenses/agpl-3.0.en.html>
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see https://www.gnu.org/licenses/.
-
-Full license text: [LICENSE-AGPL-3.0](LICENSE-AGPL-3.0)
-
-## Summary
-
-```
-├── README files (*.md) → CC BY-NC 4.0
-├── Documentation       → CC BY-NC 4.0
-└── Code/Scripts        → AGPL-3.0
-```
-
-For questions about licensing, please open an issue in this repository.
+END OF TERMS AND CONDITIONS
